@@ -6,7 +6,7 @@ A full-stack spreadsheet analytics platform that enables users to upload Excel f
 
 ## 🚀 Live Demo
 
-🔗 Live Demo: <https://excel-analytics-platform-eta.vercel.app/login>
+🔗 Live Demo: <https://excel-analytics-platform-eta.vercel.app>
 
 ---
 
